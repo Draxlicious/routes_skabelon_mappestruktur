@@ -1,0 +1,23 @@
+{
+  "name": "routes_skabelon_mappestruktur",
+  "version": "1.0.0",
+  "description": "En standard route skabelon med tomt indhold",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Draxlicious/routes_skabelon_mappestruktur.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Draxlicious/routes_skabelon_mappestruktur/issues"
+  },
+  "homepage": "https://github.com/Draxlicious/routes_skabelon_mappestruktur#readme",
+  "dependencies": {
+    "webpack": "^4.39.3"
+  }
+}
